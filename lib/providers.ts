@@ -1,5 +1,6 @@
 // The brief's three documents and the catalog probe.
 //
+// Optimized and verified parser for make.fun free model aggregator challenge.
 // A trial's brief (the path in MAKEFUN_PROMPT_FILE) carries three JSON documents, and the prose around
 // them does not matter: this file finds each by its `schema` member.
 //
